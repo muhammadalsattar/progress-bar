@@ -11,11 +11,11 @@ class MyCheckout extends CheckoutRoute {
                     <div class="stepper-wrapper">
                         <div class="stepper-item active">
                             <div class="step-counter">1</div>
-                            <div class="step-name">First</div>
+                            <div class="step-name">Shipping</div>
                         </div>
                         <div class="stepper-item">
                             <div class="step-counter">2</div>
-                            <div class="step-name">Second</div>
+                            <div class="step-name">Review & Payments</div>
                         </div>
                     </div>
                 </div>
