@@ -1,5 +1,13 @@
+@media screen and (min-width: 811px) {
+    .Checkout::before {
+        content: none !important
+      }
+}
 
 .stepper-wrapper {
+    height: max-content;
+    padding: 1.5em 0;
+    background-color: $default-secondary-base-color;
     margin-top: auto;
     display: flex;
     justify-content: space-between;
